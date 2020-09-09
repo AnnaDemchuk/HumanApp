@@ -1,0 +1,13 @@
+C:\Users\Анна\source\repos\HumanApp\HumanApp\bin\Debug\netcoreapp3.1\HumanApp.exe
+C:\Users\Анна\source\repos\HumanApp\HumanApp\bin\Debug\netcoreapp3.1\HumanApp.deps.json
+C:\Users\Анна\source\repos\HumanApp\HumanApp\bin\Debug\netcoreapp3.1\HumanApp.runtimeconfig.json
+C:\Users\Анна\source\repos\HumanApp\HumanApp\bin\Debug\netcoreapp3.1\HumanApp.runtimeconfig.dev.json
+C:\Users\Анна\source\repos\HumanApp\HumanApp\bin\Debug\netcoreapp3.1\HumanApp.dll
+C:\Users\Анна\source\repos\HumanApp\HumanApp\bin\Debug\netcoreapp3.1\HumanApp.pdb
+C:\Users\Анна\source\repos\HumanApp\HumanApp\obj\Debug\netcoreapp3.1\HumanApp.csprojAssemblyReference.cache
+C:\Users\Анна\source\repos\HumanApp\HumanApp\obj\Debug\netcoreapp3.1\HumanApp.AssemblyInfoInputs.cache
+C:\Users\Анна\source\repos\HumanApp\HumanApp\obj\Debug\netcoreapp3.1\HumanApp.AssemblyInfo.cs
+C:\Users\Анна\source\repos\HumanApp\HumanApp\obj\Debug\netcoreapp3.1\HumanApp.csproj.CoreCompileInputs.cache
+C:\Users\Анна\source\repos\HumanApp\HumanApp\obj\Debug\netcoreapp3.1\HumanApp.dll
+C:\Users\Анна\source\repos\HumanApp\HumanApp\obj\Debug\netcoreapp3.1\HumanApp.pdb
+C:\Users\Анна\source\repos\HumanApp\HumanApp\obj\Debug\netcoreapp3.1\HumanApp.genruntimeconfig.cache
